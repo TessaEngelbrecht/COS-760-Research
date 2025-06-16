@@ -19,6 +19,8 @@ git clone https://github.com/TessaEngelbrecht/COS-760-Research.git
 
 To see your Google Colad environment please go to the following link: 
 https://colab.research.google.com/drive/1B9FMRyw1Krc6ac3YrS8t80GY-4IyEXd6?usp=sharing 
+or
+https://colab.research.google.com/drive/1HWsO7WWTqdEdBYGmZkKdYwK1uM9x2EM2?usp=sharing 
 
 ## Data
 
