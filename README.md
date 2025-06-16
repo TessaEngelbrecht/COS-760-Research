@@ -51,14 +51,6 @@ Data gathering: [![isiXhosa Detection Notebook](https://colab.research.google.co
 1. **Afro-XLM-R Encoder** pretrained on 17 African languages  
 2. **Dual-Language Classifier** with shared parameters  
 3. **Back-Translation Augmentation** (isiXhosa ↔ English → isiXhosa)  
-
-### Training Configuration  
-| Parameter          | Value       |
-|--------------------|-------------|
-| Batch Size         | 16          |
-| Learning Rate      | 2e-5        |
-| Epochs             | 10          |
-| Augmentation Ratio | 10%         |
 ---
 
 ## Contributing  
