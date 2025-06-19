@@ -21,7 +21,9 @@ This research addresses the critical gap in machine-generated text detection for
 
 - **Afro-XLM-R** for transfer learning  
 - **Data augmentation** (back-translation, synonym replacement) 
-
+- [Read the Full Report](https://drive.google.com/file/d/1SC1vVcgHv8dczWDJynaDjmuOEpano6Hh/view?usp=drive_link)
+- [Watch the Video Presentation](https://drive.google.com/file/d/1bX8h5OeCMmj4lrRInLdLlIJtV5Od6PTS/view?usp=sharing)
+- [View the Slides](https://docs.google.com/presentation/d/1vAcVSkNHh8j9JxmnyEIScfPLCVLii1H6/edit?usp=drive_link&ouid=105545363334266538391&rtpof=true&sd=true)
 ---
 
 ## Installation  
